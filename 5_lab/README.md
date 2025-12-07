@@ -34,5 +34,5 @@
 
 ## Пакет streampolyline
 Класс **StreamPolyline** убирает точки с одинаковыми X,Y. Сортирует по X. Отрицательные Y делает положительными. Собирает это все в ломаную (возвращает объект типа Polyline).  
-![Uploading изображение.png…]()
+<img width="1106" height="575" alt="изображение" src="https://github.com/user-attachments/assets/5c804440-5481-4f0a-b9d3-75957e5290d8" />
 
