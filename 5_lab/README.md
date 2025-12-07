@@ -14,12 +14,13 @@
 <img width="1029" height="884" alt="изображение" src="https://github.com/user-attachments/assets/546e0a52-e94e-4c6e-bdbd-5d41361c78a8" />  
 ### Тесты  
 <img width="302" height="481" alt="изображение" src="https://github.com/user-attachments/assets/5b98dc49-2bd9-4239-9f91-0040ab4542b2" />  
+
 ## Пакет consonantletters  
 ### Содержание  
 Класс **ConsonantLetters** реализует подсчёт согласных букв русского алфавита в тексте. Выводит те буквы, которые встречаются только в одном слове текста.  
 ### Тесты  
 <img width="542" height="241" alt="изображение" src="https://github.com/user-attachments/assets/efdef63a-f308-4642-b1ed-069125e57c00" />  
-<img width="619" height="130" alt="изображение" src="https://github.com/user-attachments/assets/071547c7-62a8-452d-a3c8-13661bde2ef0" />
+<img width="619" height="130" alt="изображение" src="https://github.com/user-attachments/assets/071547c7-62a8-452d-a3c8-13661bde2ef0" />  
 
 
 ## **Пакет fraction**  
